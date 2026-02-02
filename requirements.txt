@@ -1,0 +1,10 @@
+redis
+redisvl
+numpy
+pandas
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+transformers
+torch
